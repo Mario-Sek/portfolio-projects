@@ -10,8 +10,10 @@ Below are the projects currently included as submodules in this repository:
 
 - **Book App** — Full-stack book management application with React frontend and Spring Boot backend.  
 - **FSCE-Services** — Spring Boot web application feature branch snapshot demonstrating disciplinary decisions module.
+- **GearTalk** — Web app for car enthusiasts to discuss, compare, and track vehicles. Built with: React, Firebase and Vercel.
 - **Notes App DevOps** — Full-stack notes application with Docker, Kubernetes, and CI/CD automation.  
-- **Treasure Island** — 3D game developed in Godot engine featuring a treasure hunting adventure.   
+- **Treasure Island** — 3D game developed in Godot engine featuring a treasure hunting adventure.
+
 
 ---
 
