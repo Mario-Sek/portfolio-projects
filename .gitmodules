@@ -10,3 +10,6 @@
 [submodule "treasure-island-godot"]
 	path = treasure-island-godot
 	url = https://github.com/Mario-Sek/treasure-island-godot
+[submodule "gear-talk"]
+	path = gear-talk
+	url = https://github.com/Mario-Sek/AWDProject
