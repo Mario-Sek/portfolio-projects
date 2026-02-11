@@ -13,3 +13,6 @@
 [submodule "gear-talk"]
 	path = gear-talk
 	url = https://github.com/Mario-Sek/AWDProject
+[submodule "finances-internship"]
+	path = finances-internship
+	url = https://github.com/Mario-Sek/finances-internship
