@@ -8,7 +8,8 @@ This repository serves as a central hub to organize and showcase my key developm
 
 Below are the projects currently included as submodules in this repository:
 
-- **Book App** — Full-stack book management application with React frontend and Spring Boot backend.  
+- **Book App** — Full-stack book management application with React frontend and Spring Boot backend.
+- **Finances-Internship** — Web application for the minsitry of finances managing civil bond prospects. Built with: Spring Boot, Thymeleaf, and PostgreSQL.
 - **FSCE-Services** — Spring Boot web application feature branch snapshot demonstrating disciplinary decisions module.
 - **GearTalk** — Feature rich web app service for car enthusiasts to discuss, compare, and track vehicles. Built with: React, Firebase and Vercel.
 - **Notes App DevOps** — Full-stack notes application with Docker, Kubernetes, and CI/CD automation.  
