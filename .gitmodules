@@ -1,0 +1,15 @@
+[submodule "books-app"]
+	path = books-app
+	url = https://github.com/Mario-Sek/books-app
+[submodule "fsce-services"]
+	path = fsce-services
+	url = https://github.com/Mario-Sek/fsce-services
+[submodule "notes-app"]
+	path = notes-app
+	url = https://github.com/Mario-Sek/notes-app
+[submodule "treasure-island-godot"]
+	path = treasure-island-godot
+	url = https://github.com/Mario-Sek/treasure-island-godot
+[submodule "gear-talk"]
+	path = gear-talk
+	url = https://github.com/Mario-Sek/AWDProject
